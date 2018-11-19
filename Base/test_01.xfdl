@@ -8,6 +8,7 @@
         <Button id="Button02" taborder="2" text="Button02" left="229" top="57" width="125" height="75"/>
         <Button id="Button03" taborder="3" text="Button03" left="219" top="164" width="208" height="89"/>
         <Button id="Button04" taborder="4" text="Button04" left="290" top="26" width="185" height="104"/>
+        <Grid id="Grid00" taborder="5" left="32" top="30" width="156" height="106"/>
       </Layout>
     </Layouts>
   </Form>

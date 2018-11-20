@@ -6,8 +6,8 @@
         <Button id="Button00" taborder="0" text="Button00" left="50" top="38" width="149" height="59"/>
         <Button id="Button01" taborder="1" text="Button01" left="116" top="126" width="109" height="68"/>
         <Button id="Button02" taborder="2" text="Button02" left="229" top="57" width="125" height="75"/>
-        <Button id="Button03" taborder="3" text="Button03" left="219" top="164" width="208" height="89"/>
-        <Button id="Button04" taborder="4" text="Button04" left="290" top="26" width="185" height="104"/>
+        <Button id="Button03" taborder="3" text="Button03" left="229" top="210" width="208" height="89"/>
+        <Button id="Button04" taborder="4" text="Button04" left="395" top="96" width="185" height="104"/>
         <Grid id="Grid00" taborder="5" left="32" top="30" width="156" height="106"/>
         <Button id="Button05" taborder="6" text="Button05" left="208" top="16" width="110" height="30"/>
       </Layout>

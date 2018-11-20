@@ -12,7 +12,7 @@
         <Button id="Button05" taborder="6" text="Button05" left="208" top="16" width="110" height="30"/>
         <Button id="Button06" taborder="7" text="Button06" left="98" top="271" width="154" height="113"/>
         <Button id="Button07" taborder="8" text="Button07" left="298" top="254" width="189" height="114"/>
-        <Button id="Button08" taborder="9" text="Button08" left="48" top="211" width="167" height="97"/>
+        <Button id="Button08" taborder="9" text="Button08" left="510" top="250" width="167" height="97"/>
       </Layout>
     </Layouts>
   </Form>

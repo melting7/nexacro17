@@ -10,6 +10,7 @@
         <Button id="Button04" taborder="4" text="Button04" left="395" top="96" width="185" height="104"/>
         <Grid id="Grid00" taborder="5" left="32" top="30" width="156" height="106"/>
         <Button id="Button05" taborder="6" text="Button05" left="208" top="16" width="110" height="30"/>
+        <Button id="Button06" taborder="7" text="Button06" left="98" top="271" width="154" height="113"/>
       </Layout>
     </Layouts>
   </Form>
